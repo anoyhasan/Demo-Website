@@ -1,0 +1,170 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+/* header-area style from here */
+.haeder-area{
+	background-image: url("../img/mountains.jpg");
+	background-size: cover;
+}
+ span{
+	background: #0aaad9;
+}
+.middel-area{
+	width: 80%;
+	margin: auto;
+}
+.header-top{
+	padding-top: 30px;
+}
+.header-top nav ul li a{
+	color: black;
+	margin: 5px;
+}
+.header-top nav ul li a:hover{
+	color: #8df9f3;
+}
+.header-buttom{
+	padding: 200px 0;
+	text-align: center;
+}
+.header-buttom h2{
+	color: #022169;
+}
+.call-to-action{
+	margin-top: 40px;
+}
+.call-to-action a {
+		background: #0aaad9;
+		text-decoration: none;
+		padding: 10px 60px;
+		color: #fff;
+		font-size: 15px;
+		margin-top: 40px;
+		border-radius: 5px;
+		box-shadow: 0px 3px 0px #85c1d3;
+		display: inline-block;
+}
+.call-to-action a:hover{
+	box-shadow: 0px 0px 0px #85c1d3;
+}
+/* about-area style from here */
+.aboutext{
+	text-align: center;
+	margin: 40px;
+	padding: 5px;
+}
+.text1{
+	margin-bottom: 40px;
+}
+.col-lg-6 h4{
+text-align: center;
+}
+.col-md-12 img{
+	width: 100%;
+}
+
+.call-to-action1 a{
+	background: #0aaad9;
+	text-decoration: none;
+	padding: 10px 60px;
+	color: #fff;
+	font-size: 20px;
+	margin-top: 40px;
+	border-radius: 5px;
+	box-shadow: 0px 3px 0px #85c1d3;
+	display: inline-block;
+}
+.call-to-action1 a:hover{
+	box-shadow: 0px 0px 0px #85c1d3;
+}
+/* portfolio-area style from here */
+#PORTFOLIO{
+	background: #d7dcde;
+
+}
+
+.row  hr{
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: 2px solid #606364;
+	width: 30%;
+}
+.row h3 {
+	text-align: center;
+}
+.row p{
+	text-align: justify;
+}
+.READ{
+	padding-left: 60px;
+	padding-bottom: 20px;
+}
+.READ a{
+	text-decoration: none;
+	 background: #2f383a;
+	 color: #fff;
+	 display: inline-block;
+	 border-radius: 3px;
+	 font-size: 20px;
+	 padding: 10px 50px;
+}
+.READ a:hover{
+	background: #fff;
+	color: #000;
+}
+.col-lg-3{
+		border: 2px solid aliceblue;
+}
+.col-lg-3:hover{
+
+	background: #08aadd;
+}
+
+.link i{
+	color: #2f383a;
+	padding-left: 135px;
+	padding-top: 30px;
+	font-size: 30px;
+	padding-bottom: 15px;
+}
+.link i:hover{
+	color:#fff;
+}
+.pa1{
+	text-align: center;
+}
+input{
+	width:250px;
+	font-size: 20px;
+}
+input,textarea{
+	margin: 20px;
+
+}
+.sub{
+	width:92%;
+	font-size: 20px;
+}
+textarea{
+		width:92%;
+}
+#CONTACT{
+	background: #d7dcde;
+}
+footer{
+	background: #08aadd;
+	padding: 10px;
+}
+footer p{
+	text-align: center;
+	color: #fff;
+}
